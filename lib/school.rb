@@ -29,4 +29,6 @@ class School
 #    end
 #  end
     binding.pry
+  end
+    
 end
