@@ -28,6 +28,8 @@ class School
       sorted_roster[grade] = students.sort
     sorted_roster
     end
+    
+  end
 
 
 end
