@@ -26,9 +26,10 @@ class School
     @roster.each do |grade, students|
       binding.pry
       sorted_roster[grade] = students.sort
+    binding.pry
     sorted_roster
     end
-    
+
   end
 
 
