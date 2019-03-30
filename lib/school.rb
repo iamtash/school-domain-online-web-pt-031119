@@ -30,5 +30,5 @@ class School
 #  end
     binding.pry
   end
-    
+
 end
