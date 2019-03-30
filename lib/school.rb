@@ -28,8 +28,6 @@ class School
       sorted_roster[grade] = students.sort
     sorted_roster
     end
-  end
-#    binding.pry
-  end
+
 
 end
